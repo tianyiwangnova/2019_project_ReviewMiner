@@ -1,4 +1,3 @@
-# Author: Tianyi Wang (tianyi.wang@kindredgroup.com)
 # Last updated: 2019-05-20
 
 import numpy as np
